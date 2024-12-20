@@ -1,0 +1,17 @@
+.quote-wrapper {
+    width: 450px;
+    padding: 2%;
+    border: 3px solid black;
+    margin: auto;
+    border-radius: 10px;
+    h1 {
+        margin-bottom: 1%;
+    }
+    button {
+        margin-top: 2%;
+        padding: 2%;
+        background-color: #c445f6;
+        border: 2px solid black;
+        border-radius: 10px;
+    }
+}
